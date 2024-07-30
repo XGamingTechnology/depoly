@@ -47,7 +47,7 @@ export default function Footer() {
               </span>
               <div>
                 <p className='mb-1'>+62 21 390 5533</p>
-                <p>+62 21 390 5533</p>
+                <p>+62 21 314 5333</p>
               </div>
             </div>
             <div className='flex mb-3'>
