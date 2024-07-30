@@ -73,8 +73,8 @@ export default function Footer() {
                   alt='Our contact'
                 />
               </span>
-              <a className='underline' href='mailto:esi@tridentwater.com.sg'>
-                esi@tridentwater.com.sg
+              <a className='underline' href='mailto:esi@ptesi.com'>
+                 esi@ptesi.com
               </a>
             </div>
           </div>

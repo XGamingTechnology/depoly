@@ -155,7 +155,7 @@ export default function Contact() {
                 <h3 className='mb-8 font-bold text-4xl'>{t('contact-us')}</h3>
                 <ContactForm result={result} setResult={setResult} />
               </div>
-              <div className='bg-white flex-1 relative text-eco-blue px-6 py-12 rounded-md'>
+              <div className='bg-white relative text-eco-blue px-6 py-12 rounded-md'>
                 <div className='hidden md:block absolute -bottom-8 -right-8 w-28 h-28 bg-eco-blue rounded-full' />
                 <div className='hidden md:block absolute -top-16 -left-16 w-28 h-28 bg-eco-green rounded-full' />
                 <div className='mb-12'>
