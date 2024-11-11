@@ -185,6 +185,16 @@ const ContentEcr = () => {
       <div className='max-w-6xl mx-auto mb-12'>
         <Image
           className='mb-24'
+          src='/products/ecr/Product.jpg'
+          width={1200}
+          height={800}
+          alt='Product'
+        />
+      </div>
+      
+      <div className='max-w-6xl mx-auto mb-12'>
+        <Image
+          className='mb-24'
           src='/products/ecr/ecr-solution.png'
           width={1200}
           height={800}
