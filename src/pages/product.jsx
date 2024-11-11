@@ -191,7 +191,7 @@ const ContentEcr = () => {
           alt='Product'
         />
       </div>
-      
+
       <div className='max-w-6xl mx-auto mb-12'>
         <Image
           className='mb-24'
